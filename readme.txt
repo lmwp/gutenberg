@@ -7,10 +7,10 @@ Stable tag: V.V.V
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Gutenberg plugin provides editing, customization, and site building features to WordPress. This beta plugin allows you to test bleeding-edge features before they land in future WordPress releases.
+This beta  version of Gutenberg plugin allows you to test bleeding-edge features before they land in future WordPress releases. Gutenberg plugin provides editing, customization, and site building features to WordPress.
 
 == Description ==
-
+This is the **beta version** of Gutenberg plugin, use it just to test bleeding-edge features.
 "Gutenberg" is a codename for a whole new paradigm in WordPress site building and publishing, that aims to revolutionize the entire publishing experience as much as Gutenberg did the printed word. Right now, the project is in the first phase of a four-phase process that will touch every piece of WordPress -- Editing, Customization, Collaboration, and Multilingual -- and is focused on a new editing experience, the block editor.
 
 The block editor introduces a modular approach to pages and posts: each piece of content in the editor, from a paragraph to an image gallery to a headline, is its own block. And just like physical blocks, WordPress blocks can added, arranged, and rearranged, allowing WordPress users to create media-rich pages in a visually intuitive way -- and without work-arounds like shortcodes or custom HTML.
